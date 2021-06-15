@@ -5,4 +5,5 @@ Yellow
 Orange
 Indigo
 Pink
+cyan
 Add colors
