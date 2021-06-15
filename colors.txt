@@ -3,4 +3,5 @@ Blue
 Green
 Yellow
 Orange
+Indigo
 Add colors
